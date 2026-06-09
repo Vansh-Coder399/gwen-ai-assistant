@@ -1,8 +1,8 @@
 # 🤖 GwenAI Assistant
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/RyuenX/GWEN-AI-ASSISTANT-/main/image.png" width="250" alt="GwenAI Logo">
-</p>
+</p> -->
 
 <h1 align="center">GwenAI Assistant</h1>
 
